@@ -5,7 +5,7 @@
 💻 &nbsp; Self‑taught developer passionate about web and software development.  
 🌱 &nbsp; Constantly learning and polishing my skills across back‑end, front‑end and database technologies.  
 🔭 &nbsp; Building projects in PHP, Java, JavaScript and exploring both relational and NoSQL databases.  
-🎯 &nbsp; Actively looking for programming opportunities!
+🎯 &nbsp; Actively looking for programming opportunities!  
 ⚽ &nbsp; In my free time, I enjoy playing sports and practicing piano.
 
 ---
