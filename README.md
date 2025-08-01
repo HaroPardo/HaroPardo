@@ -1,10 +1,12 @@
 ## Hello! I am HaroPardo!
 
+📌 &nbsp; Open to job opportunities — actively seeking a role as a junior developer.  
 🎓 &nbsp; First‑year Computer Engineering student at the National University of Distance Education (UNED), Spain.  
 💻 &nbsp; Self‑taught developer passionate about web and software development.  
 🌱 &nbsp; Constantly learning and polishing my skills across back‑end, front‑end and database technologies.  
 🔭 &nbsp; Building projects in PHP, Java, JavaScript and exploring both relational and NoSQL databases.  
 🎯 &nbsp; Actively looking for programming opportunities!
+⚽ &nbsp; In my free time, I enjoy playing sports and practicing piano.
 
 ---
 
@@ -18,6 +20,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 #### Tools & IDEs  
 ![XAMPP](https://img.shields.io/badge/XAMPP-%23FF9A00.svg?style=for-the-badge&logo=xampp&logoColor=white)  
